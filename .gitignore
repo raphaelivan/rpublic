@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+*.cache
+*.beam
+*.dump
+*.out
+*.so
+*.linkinfo
+*.bundle
+Makefile
