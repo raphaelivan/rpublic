@@ -1,0 +1,17 @@
+[user]
+	name = Raphael Ivan
+	email = raphaivan@gmail.com
+[color]
+	ui = true
+	branch = true
+	diff = true
+	status = true
+[i18n]
+        commitencoding = UTF8
+[alias]
+        st = status
+        cm = commit
+        co = checkout
+        br = branch
+        bs = bisect
+        cp = cherry-pick
