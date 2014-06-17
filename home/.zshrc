@@ -94,3 +94,5 @@ export PATH="/home/raphael/.rvm/gems/ruby-1.9.3-p362/bin:/home/raphael/.rvm/gems
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/sbin:/usr/sbin
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
+[ -s "/home/raphael/.nvm/nvm.sh" ] && . "/home/raphael/.nvm/nvm.sh" # This loads nvm
+
