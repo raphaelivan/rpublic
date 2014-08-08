@@ -14,7 +14,7 @@ alias mem="free -m"
 alias h='history'
 alias _='sudo'
 
-alias gh="cd /home/raphael/projects/github/"
+alias gh="cd $HOME/projects/github/"
 
 # Github
 
